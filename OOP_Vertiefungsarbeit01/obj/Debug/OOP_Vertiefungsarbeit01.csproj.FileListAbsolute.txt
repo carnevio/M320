@@ -1,0 +1,8 @@
+C:\Users\nevio\source\repos\OOP_Vertiefungsarbeit01\OOP_Vertiefungsarbeit01\bin\Debug\OOP_Vertiefungsarbeit01.exe.config
+C:\Users\nevio\source\repos\OOP_Vertiefungsarbeit01\OOP_Vertiefungsarbeit01\bin\Debug\OOP_Vertiefungsarbeit01.exe
+C:\Users\nevio\source\repos\OOP_Vertiefungsarbeit01\OOP_Vertiefungsarbeit01\bin\Debug\OOP_Vertiefungsarbeit01.pdb
+C:\Users\nevio\source\repos\OOP_Vertiefungsarbeit01\OOP_Vertiefungsarbeit01\obj\Debug\OOP_Vertiefungsarbeit01.csproj.AssemblyReference.cache
+C:\Users\nevio\source\repos\OOP_Vertiefungsarbeit01\OOP_Vertiefungsarbeit01\obj\Debug\OOP_Vertiefungsarbeit01.csproj.CoreCompileInputs.cache
+C:\Users\nevio\source\repos\OOP_Vertiefungsarbeit01\OOP_Vertiefungsarbeit01\obj\Debug\OOP_Vertiefungsarbeit01.exe
+C:\Users\nevio\source\repos\OOP_Vertiefungsarbeit01\OOP_Vertiefungsarbeit01\obj\Debug\OOP_Vertiefungsarbeit01.pdb
+C:\Users\nevio\source\repos\OOP_Vertiefungsarbeit01\OOP_Vertiefungsarbeit01\obj\Debug\OOP_Vertiefungsarbeit01.exe.config
