@@ -8,14 +8,9 @@ namespace Vertiefsungsarbeit06
 {
     public abstract class Employee
     {
-        private string FullName { get; set; }
-        private int EmployeeNumber { get; set; }
-        private double MonthlySalary { get; set; }
-
-        public virtual double GetYearlySalary()
-        {
-            return MonthlySalary * 12;
-        }
+        public string FullName { get; set; }
+        public int EmployeeNumber { get; set; }
+        public double MonthlySalary { get; set; }
 
         public Employee(string fullName, int employeeNumber, double monthlySalary)
         {
@@ -24,6 +19,7 @@ namespace Vertiefsungsarbeit06
             MonthlySalary = monthlySalary;
         }
 
-        
+        public abstract double GetYearlySalary();
     }
+
 }

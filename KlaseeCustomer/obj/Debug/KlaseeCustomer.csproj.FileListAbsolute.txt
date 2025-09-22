@@ -5,4 +5,3 @@ C:\Users\nevio\source\repos\OOP_Vertiefungsarbeit01\KlaseeCustomer\obj\Debug\Kla
 C:\Users\nevio\source\repos\OOP_Vertiefungsarbeit01\KlaseeCustomer\obj\Debug\KlaseeCustomer.csproj.CoreCompileInputs.cache
 C:\Users\nevio\source\repos\OOP_Vertiefungsarbeit01\KlaseeCustomer\obj\Debug\KlaseeCustomer.exe
 C:\Users\nevio\source\repos\OOP_Vertiefungsarbeit01\KlaseeCustomer\obj\Debug\KlaseeCustomer.pdb
-C:\Users\nevio\source\repos\OOP_Vertiefungsarbeit01\KlaseeCustomer\obj\Debug\KlaseeCustomer.exe.config

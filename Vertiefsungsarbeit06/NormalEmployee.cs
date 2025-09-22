@@ -6,20 +6,16 @@ using System.Threading.Tasks;
 
 namespace Vertiefsungsarbeit06
 {
-    public class Manager : Employee
+    internal class NormalEmployee : Employee
     {
-        private double bonus;
-
-        public Manager(string fullName, int employeeNumber, double monthlySalary, double bonus)
+        public NormalEmployee(string fullName, int employeeNumber, double monthlySalary)
             : base(fullName, employeeNumber, monthlySalary)
         {
-            this.bonus = bonus;
         }
 
         public override double GetYearlySalary()
         {
-            return MonthlySalary * 12 + bonus;
+            return MonthlySalary * 12;
         }
     }
-
 }
