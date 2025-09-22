@@ -6,7 +6,24 @@ using System.Threading.Tasks;
 
 namespace Vertiefsungsarbeit06
 {
-    internal class Employee
+    public abstract class Employee
     {
+        private string FullName { get; set; }
+        private int EmployeeNumber { get; set; }
+        private double MonthlySalary { get; set; }
+
+        public virtual double GetYearlySalary()
+        {
+            return MonthlySalary * 12;
+        }
+
+        public Employee(string fullName, int employeeNumber, double monthlySalary)
+        {
+            FullName = fullName;
+            EmployeeNumber = employeeNumber;
+            MonthlySalary = monthlySalary;
+        }
+
+        
     }
 }
